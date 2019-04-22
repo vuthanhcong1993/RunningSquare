@@ -1,0 +1,4 @@
+int id ratingBar 0x7f040001
+int id textView 0x7f040000
+int layout rating_dialog 0x7f020000
+int xml file_paths 0x7f030000
