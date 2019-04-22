@@ -1,2 +1,2 @@
 # RunningSquare
-^^
+Game RunningSquare 
